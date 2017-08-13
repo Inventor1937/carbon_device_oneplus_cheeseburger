@@ -67,10 +67,10 @@
    </integer-array>
 
     <!-- Whether to intercept inputs on screen off. -->
-    <bool name="config_enableKeyHandler">true</bool>
+<!--    <bool name="config_enableKeyHandler">true</bool> -->
 
     <!-- Keycodes of gestures. If the gesture is not supported set it to 0. -->
-    <integer name="config_doubleTapKeyCode">59</integer>
+<!--    <integer name="config_doubleTapKeyCode">59</integer>
     <integer name="config_drawVKeyCode">62</integer>
     <integer name="config_drawInverseVKeyCode">65</integer>
     <integer name="config_drawOKeyCode">60</integer>
@@ -82,7 +82,7 @@
     <integer name="config_oneFingerSwipeRightKeyCode">67</integer>
     <integer name="config_oneFingerSwipeDownKeyCode">184</integer>
     <integer name="config_oneFingerSwipeLeftKeyCode">66</integer>
-    <integer name="config_twoFingerSwipeKeyCode">61</integer>
+    <integer name="config_twoFingerSwipeKeyCode">61</integer> -->
 
     <!-- Default settings for gestures
             0 - Disabled
@@ -94,7 +94,7 @@
             6 - Previous music
             7 - Open camera
             8 - Open dialer -->
-    <integer name="config_doubleTapDefault">1</integer>
+<!--    <integer name="config_doubleTapDefault">1</integer>
     <integer name="config_drawVDefault">2</integer>
     <integer name="config_drawInverseVDefault">3</integer>
     <integer name="config_drawODefault">7</integer>
@@ -106,6 +106,6 @@
     <integer name="config_oneFingerSwipeRightDefault">0</integer>
     <integer name="config_oneFingerSwipeDownDefault">0</integer>
     <integer name="config_oneFingerSwipeLeftDefault">0</integer>
-    <integer name="config_twoFingerSwipeDefault">4</integer>
+    <integer name="config_twoFingerSwipeDefault">4</integer> -->
 
 </resources>
